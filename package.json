@@ -14,8 +14,5 @@
   },
   "engines": {
     "node": ">=20"
-  },
-  "devDependencies": {
-    "babel-plugin-react-compiler": "1.0.0"
   }
 }
