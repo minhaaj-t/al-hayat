@@ -1,3 +1,4 @@
+import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -6,14 +7,26 @@ const configDir = path.dirname(fileURLToPath(import.meta.url));
 /**
  * npm workspaces hoist `next` to the repo root `node_modules/`.
  * Turbopack must use that root or it cannot resolve `next/package.json`.
+ *
+ * On Vercel with Root Directory = `alhayath`, install often runs only in that
+ * folder, so `next` lives in `alhayath/node_modules` — pointing Turbopack at
+ * the parent then breaks the build. Only set the workspace root when `next`
+ * is actually installed there.
  */
 const turbopackRoot = path.resolve(configDir, "..");
+const workspaceNextPkg = path.join(
+  turbopackRoot,
+  "node_modules",
+  "next",
+  "package.json",
+);
+const turbopackWorkspaceRoot = fs.existsSync(workspaceNextPkg)
+  ? { root: turbopackRoot }
+  : undefined;
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  turbopack: {
-    root: turbopackRoot,
-  },
+  ...(turbopackWorkspaceRoot ? { turbopack: turbopackWorkspaceRoot } : {}),
   reactCompiler: true,
   images: {
     remotePatterns: [
