@@ -1,0 +1,13 @@
+{
+  "name": "al-hayat-repo",
+  "private": true,
+  "workspaces": ["alhayath"],
+  "scripts": {
+    "build": "npm run build -w alhayath",
+    "dev": "npm run dev -w alhayath",
+    "lint": "npm run lint -w alhayath"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

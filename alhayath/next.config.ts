@@ -1,6 +1,13 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  /**
+   * When the repo is an npm workspace, `next build` runs with cwd = `alhayath/`.
+   * Pinning Turbopack root avoids resolving the wrong directory (parent lockfiles / 404 deploys).
+   */
+  turbopack: {
+    root: process.cwd(),
+  },
   reactCompiler: true,
   images: {
     remotePatterns: [
