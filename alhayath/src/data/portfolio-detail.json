@@ -1,0 +1,309 @@
+{
+  "a-lacus-bibendum-pulvinar": {
+    "slug": "a-lacus-bibendum-pulvinar",
+    "heroTitle": "Al Maskan Trading",
+    "subtitle": "",
+    "gallery": [
+      "/site/portfolio/a-lacus-bibendum-pulvinar/img-01.jpg",
+      "/site/portfolio/a-lacus-bibendum-pulvinar/img-02.jpg",
+      "/site/portfolio/a-lacus-bibendum-pulvinar/img-03.jpg",
+      "/site/portfolio/a-lacus-bibendum-pulvinar/img-04.jpg",
+      "/site/portfolio/a-lacus-bibendum-pulvinar/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "",
+    "prevSlug": "imdadiya-super-market",
+    "nextSlug": "restaurant-happy-way"
+  },
+  "al-burj-super-market": {
+    "slug": "al-burj-super-market",
+    "heroTitle": "Al Burj Super Market",
+    "subtitle": "",
+    "gallery": [
+      "/site/portfolio/al-burj-super-market/img-01.jpg",
+      "/site/portfolio/al-burj-super-market/img-02.jpg",
+      "/site/portfolio/al-burj-super-market/img-03.jpg",
+      "/site/portfolio/al-burj-super-market/img-04.jpg",
+      "/site/portfolio/al-burj-super-market/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "<p>Hac vitae sem class fames vehicula nascetur nam tellus a condimentum inceptos mus rhoncus et accumsan fringilla vehicula nascetur amet fermentum rutrum.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">WordPress</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">John Doe</td></tr><tr><th>Materials</th><td style=\"text-align: right;\">Wood, Paper</td></tr><tr><th>Website</th><td style=\"text-align: right;\">xtemos.com/wood</td></tr></tbody></table>",
+    "prevSlug": "al-madina-super-market-academic-city",
+    "nextSlug": "imdadiya-super-market"
+  },
+  "al-madina-super-market-academic-city": {
+    "slug": "al-madina-super-market-academic-city",
+    "heroTitle": "Al Madina Super Market (Academic City)",
+    "subtitle": "",
+    "gallery": [
+      "/site/portfolio/al-madina-super-market-academic-city/img-01.jpg",
+      "/site/portfolio/al-madina-super-market-academic-city/img-02.jpg",
+      "/site/portfolio/al-madina-super-market-academic-city/img-03.jpg",
+      "/site/portfolio/al-madina-super-market-academic-city/img-04.jpg",
+      "/site/portfolio/al-madina-super-market-academic-city/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "",
+    "prevSlug": "mini-mart-damac-properties",
+    "nextSlug": "al-burj-super-market"
+  },
+  "charcoal-chowk-restaurant": {
+    "slug": "charcoal-chowk-restaurant",
+    "heroTitle": "Charcoal Chowk Restaurant",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/charcoal-chowk-restaurant/img-01.jpg",
+      "/site/portfolio/charcoal-chowk-restaurant/img-02.jpg",
+      "/site/portfolio/charcoal-chowk-restaurant/img-03.jpg",
+      "/site/portfolio/charcoal-chowk-restaurant/img-04.jpg",
+      "/site/portfolio/charcoal-chowk-restaurant/img-05.jpg"
+    ],
+    "videoUrl": "https://youtube.com/shorts/FxhVZzAtTkU?si=kElwSnUFvJjJAZ_g",
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Wadi Luqaimat &amp; Chebab Restaurant</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "sharjah-muweila-loundry",
+    "nextSlug": "mra-hotel-deira"
+  },
+  "city-view-cafeteria": {
+    "slug": "city-view-cafeteria",
+    "heroTitle": "City View Cafeteria",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/city-view-cafeteria/img-01.jpg",
+      "/site/portfolio/city-view-cafeteria/img-02.jpg",
+      "/site/portfolio/city-view-cafeteria/img-03.jpg",
+      "/site/portfolio/city-view-cafeteria/img-04.jpg",
+      "/site/portfolio/city-view-cafeteria/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Al Rawabi - Diary Farms Khawaneej Dubai.</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "naif-view-cafeteria",
+    "nextSlug": "hyper-market-al-jurf-ajman"
+  },
+  "complete-civil-worksfor-mall": {
+    "slug": "complete-civil-worksfor-mall",
+    "heroTitle": "Complete Civil Worksfor Mall",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/complete-civil-worksfor-mall/img-01.jpg",
+      "/site/portfolio/complete-civil-worksfor-mall/img-02.jpg",
+      "/site/portfolio/complete-civil-worksfor-mall/img-03.jpg",
+      "/site/portfolio/complete-civil-worksfor-mall/img-04.jpg",
+      "/site/portfolio/complete-civil-worksfor-mall/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Al Rawabi - Diary Farms Khawaneej Dubai.</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "green-chilli-restaurant-interior-design",
+    "nextSlug": "sher-sha-shai-traditional-cafeteria"
+  },
+  "deira-glass-shop": {
+    "slug": "deira-glass-shop",
+    "heroTitle": "Deira Glass Shop",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/deira-glass-shop/img-01.jpg",
+      "/site/portfolio/deira-glass-shop/img-02.jpg",
+      "/site/portfolio/deira-glass-shop/img-03.jpg",
+      "/site/portfolio/deira-glass-shop/img-04.jpg",
+      "/site/portfolio/deira-glass-shop/img-05.jpg"
+    ],
+    "videoUrl": "https://youtube.com/shorts/FxhVZzAtTkU?si=kElwSnUFvJjJAZ_g",
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Wadi Luqaimat &amp; Chebab Restaurant</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "sharjah-muweila-loundry",
+    "nextSlug": "sharjah-muweila-loundry"
+  },
+  "emirates-transport-villas-rennovation": {
+    "slug": "emirates-transport-villas-rennovation",
+    "heroTitle": "Emirates Transport – Villas Rennovation",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/emirates-transport-villas-rennovation/img-01.jpg",
+      "/site/portfolio/emirates-transport-villas-rennovation/img-02.jpg",
+      "/site/portfolio/emirates-transport-villas-rennovation/img-03.jpg",
+      "/site/portfolio/emirates-transport-villas-rennovation/img-04.jpg",
+      "/site/portfolio/emirates-transport-villas-rennovation/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Al Rawabi - Diary Farms Khawaneej Dubai.</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "sher-sha-shai-traditional-cafeteria",
+    "nextSlug": "naif-view-cafeteria"
+  },
+  "green-chilli-restaurant-interior-design": {
+    "slug": "green-chilli-restaurant-interior-design",
+    "heroTitle": "Green Chilli Restaurant Interior design",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/green-chilli-restaurant-interior-design/img-01.jpg",
+      "/site/portfolio/green-chilli-restaurant-interior-design/img-02.jpg",
+      "/site/portfolio/green-chilli-restaurant-interior-design/img-03.jpg",
+      "/site/portfolio/green-chilli-restaurant-interior-design/img-04.jpg",
+      "/site/portfolio/green-chilli-restaurant-interior-design/img-05.jpg",
+      "/site/portfolio/green-chilli-restaurant-interior-design/img-06.jpg",
+      "/site/portfolio/green-chilli-restaurant-interior-design/img-07.jpg",
+      "/site/portfolio/green-chilli-restaurant-interior-design/img-08.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Green Chilli Restaurant Al Ain</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "wadi-luqaimat-and-chebab-restaurant",
+    "nextSlug": "complete-civil-worksfor-mall"
+  },
+  "imdadiya-super-market": {
+    "slug": "imdadiya-super-market",
+    "heroTitle": "Imdadiya Super Market",
+    "subtitle": "",
+    "gallery": [
+      "/site/portfolio/imdadiya-super-market/img-01.jpg",
+      "/site/portfolio/imdadiya-super-market/img-02.jpg",
+      "/site/portfolio/imdadiya-super-market/img-03.jpg",
+      "/site/portfolio/imdadiya-super-market/img-04.jpg",
+      "/site/portfolio/imdadiya-super-market/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "<p>Accum luctus dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam.</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-fa585df elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox\" data-id=\"fa585df\" data-element_type=\"widget\" data-widget_type=\"wd_infobox.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"info-box-wrapper\">\n\t\t\t<div class=\"wd-info-box text-left box-icon-align-top box-style-base color-scheme-\" >\n\t\t\t\t\n\t\t\t\t<div class=\"info-box-content\">\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<h4\t\t\t\t\t\tclass=\"info-box-title title box-title-style-underlined wd-fontsize-s\" data-elementor-setting-key=\"title\">\n\t\t\t\t\t\t\t\tCLIENT\t\t\t\t\t\t</h4>\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"info-box-inner set-cont-mb-s reset-last-child\"\n\t\t\t\t\t\t data-elementor-setting-key=\"content\">\n\t\t\t\t\t\t<p>MINDSPARKLE SHOP</p>\n\t\t\t\t\t</div>\n\t\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-5f61c76 elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox\" data-id=\"5f61c76\" data-element_type=\"widget\" data-widget_type=\"wd_infobox.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"info-box-wrapper\">\n\t\t\t<div class=\"wd-info-box text-left box-icon-align-top box-style-base color-scheme-\" >\n\t\t\t\t\n\t\t\t\t<div class=\"info-box-content\">\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<h4\t\t\t\t\t\tclass=\"info-box-title title box-title-style-underlined wd-fontsize-s\" data-elementor-setting-key=\"title\">\n\t\t\t\t\t\t\t\tCLIENT\t\t\t\t\t\t</h4>\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"info-box-inner set-cont-mb-s reset-last-child\"\n\t\t\t\t\t\t data-elementor-setting-key=\"content\">\n\t\t\t\t\t\t<p>MINDSPARKLE SHOP</p>\n\t\t\t\t\t</div>\n\t\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-18aa357 elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox\" data-id=\"18aa357\" data-element_type=\"widget\" data-widget_type=\"wd_infobox.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"info-box-wrapper\">\n\t\t\t<div class=\"wd-info-box text-left box-icon-align-top box-style-base color-scheme-\" >\n\t\t\t\t\n\t\t\t\t<div class=\"info-box-content\">\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<h4\t\t\t\t\t\tclass=\"info-box-title title box-title-style-underlined wd-fontsize-s\" data-elementor-setting-key=\"title\">\n\t\t\t\t\t\t\t\tDESIGNER\t\t\t\t\t\t</h4>\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"info-box-inner set-cont-mb-s reset-last-child\"\n\t\t\t\t\t\t data-elementor-setting-key=\"content\">\n\t\t\t\t\t\t<p>JOHN DOE</p>\n\t\t\t\t\t</div>\n\t\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-4e147c1 elementor-widget__width-initial elementor-widget elementor-widget-wd_infobox\" data-id=\"4e147c1\" data-element_type=\"widget\" data-widget_type=\"wd_infobox.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"info-box-wrapper\">\n\t\t\t<div class=\"wd-info-box text-left box-icon-align-top box-style-base color-scheme-\" >\n\t\t\t\t\n\t\t\t\t<div class=\"info-box-content\">\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<h4\t\t\t\t\t\tclass=\"info-box-title title box-title-style-underlined wd-fontsize-s\" data-elementor-setting-key=\"title\">\n\t\t\t\t\t\t\t\tWEBSITE\t\t\t\t\t\t</h4>\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"info-box-inner set-cont-mb-s reset-last-child\"\n\t\t\t\t\t\t data-elementor-setting-key=\"content\">\n\t\t\t\t\t\t<p>XTEMOS.COM/WOOD</p>\n\t\t\t\t\t</div>\n\t\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-4dfac57a wd-section-stretch elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"4dfac57a\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-2ef4e90f\" data-id=\"2ef4e90f\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-5731bd8 elementor-widget elementor-widget-wd_title\" data-id=\"5731bd8\" data-element_type=\"widget\" data-widget_type=\"wd_title.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-default text-left\">\n\n\t\t\t\n\t\t\t<div class=\"liner-continer\">\n\t\t\t\t<h4 class=\"woodmart-title-container title wd-fontsize-l\">PROJECT WITH DESCRIPTION EXAMPLE</h4> \n\t\t\t\t\t\t\t</div>",
+    "prevSlug": "al-burj-super-market",
+    "nextSlug": "a-lacus-bibendum-pulvinar"
+  },
+  "logton-ibn-battutha-mall": {
+    "slug": "logton-ibn-battutha-mall",
+    "heroTitle": "Logton – Ibn Battutha Mall",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/logton-ibn-battutha-mall/img-01.jpg",
+      "/site/portfolio/logton-ibn-battutha-mall/img-02.jpg",
+      "/site/portfolio/logton-ibn-battutha-mall/img-03.jpg",
+      "/site/portfolio/logton-ibn-battutha-mall/img-04.jpg",
+      "/site/portfolio/logton-ibn-battutha-mall/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Al Rawabi - Diary Farms Khawaneej Dubai.</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "majilis-renovation-al-rawabi",
+    "nextSlug": "mini-mart-damac-properties"
+  },
+  "majilis-renovation-al-rawabi": {
+    "slug": "majilis-renovation-al-rawabi",
+    "heroTitle": "Majilis Renovation – Al Rawabi",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/majilis-renovation-al-rawabi/img-01.jpg",
+      "/site/portfolio/majilis-renovation-al-rawabi/img-02.jpg",
+      "/site/portfolio/majilis-renovation-al-rawabi/img-03.jpg",
+      "/site/portfolio/majilis-renovation-al-rawabi/img-04.jpg",
+      "/site/portfolio/majilis-renovation-al-rawabi/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Al Rawabi - Diary Farms Khawaneej Dubai.</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "hyper-market-al-jurf-ajman",
+    "nextSlug": "logton-ibn-battutha-mall"
+  },
+  "mini-mart-damac-properties": {
+    "slug": "mini-mart-damac-properties",
+    "heroTitle": "Mini Mart – Damac properties",
+    "subtitle": "",
+    "gallery": [
+      "/site/portfolio/mini-mart-damac-properties/img-01.jpg",
+      "/site/portfolio/mini-mart-damac-properties/img-02.jpg",
+      "/site/portfolio/mini-mart-damac-properties/img-03.jpg",
+      "/site/portfolio/mini-mart-damac-properties/img-04.jpg",
+      "/site/portfolio/mini-mart-damac-properties/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "",
+    "prevSlug": "logton-ibn-battutha-mall",
+    "nextSlug": "al-madina-super-market-academic-city"
+  },
+  "mra-hotel-deira": {
+    "slug": "mra-hotel-deira",
+    "heroTitle": "MRA Hotel Deira",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/mra-hotel-deira/img-01.jpg",
+      "/site/portfolio/mra-hotel-deira/img-02.jpg",
+      "/site/portfolio/mra-hotel-deira/img-03.jpg",
+      "/site/portfolio/mra-hotel-deira/img-04.jpg",
+      "/site/portfolio/mra-hotel-deira/img-05.jpg"
+    ],
+    "videoUrl": "https://youtube.com/shorts/FxhVZzAtTkU?si=kElwSnUFvJjJAZ_g",
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Wadi Luqaimat &amp; Chebab Restaurant</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "charcoal-chowk-restaurant",
+    "nextSlug": "wadi-luqaimat-and-chebab-restaurant"
+  },
+  "naif-view-cafeteria": {
+    "slug": "naif-view-cafeteria",
+    "heroTitle": "Naif View Cafeteria",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/naif-view-cafeteria/img-01.jpg",
+      "/site/portfolio/naif-view-cafeteria/img-02.jpg",
+      "/site/portfolio/naif-view-cafeteria/img-03.jpg",
+      "/site/portfolio/naif-view-cafeteria/img-04.jpg",
+      "/site/portfolio/naif-view-cafeteria/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Al Rawabi - Diary Farms Khawaneej Dubai.</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "emirates-transport-villas-rennovation",
+    "nextSlug": "city-view-cafeteria"
+  },
+  "restaurant-happy-way": {
+    "slug": "restaurant-happy-way",
+    "heroTitle": "Restaurant – Happy Way",
+    "subtitle": "",
+    "gallery": [
+      "/site/portfolio/restaurant-happy-way/img-01.jpg",
+      "/site/portfolio/restaurant-happy-way/img-02.jpg",
+      "/site/portfolio/restaurant-happy-way/img-03.jpg",
+      "/site/portfolio/restaurant-happy-way/img-04.jpg",
+      "/site/portfolio/restaurant-happy-way/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "",
+    "prevSlug": "a-lacus-bibendum-pulvinar",
+    "nextSlug": "retail-shop-sarhad-group"
+  },
+  "sharjah-muweila-loundry": {
+    "slug": "sharjah-muweila-loundry",
+    "heroTitle": "Sharjah Muweila Loundry",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/sharjah-muweila-loundry/img-01.jpg",
+      "/site/portfolio/sharjah-muweila-loundry/img-02.jpg",
+      "/site/portfolio/sharjah-muweila-loundry/img-03.jpg",
+      "/site/portfolio/sharjah-muweila-loundry/img-04.jpg",
+      "/site/portfolio/sharjah-muweila-loundry/img-05.jpg"
+    ],
+    "videoUrl": "https://youtube.com/shorts/FxhVZzAtTkU?si=kElwSnUFvJjJAZ_g",
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Wadi Luqaimat &amp; Chebab Restaurant</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "deira-glass-shop",
+    "nextSlug": "charcoal-chowk-restaurant"
+  },
+  "sher-sha-shai-traditional-cafeteria": {
+    "slug": "sher-sha-shai-traditional-cafeteria",
+    "heroTitle": "Sher Sha Shai Traditional Cafeteria",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/sher-sha-shai-traditional-cafeteria/img-01.jpg",
+      "/site/portfolio/sher-sha-shai-traditional-cafeteria/img-02.jpg",
+      "/site/portfolio/sher-sha-shai-traditional-cafeteria/img-03.jpg",
+      "/site/portfolio/sher-sha-shai-traditional-cafeteria/img-04.jpg",
+      "/site/portfolio/sher-sha-shai-traditional-cafeteria/img-05.jpg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Al Rawabi - Diary Farms Khawaneej Dubai.</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "complete-civil-worksfor-mall",
+    "nextSlug": "emirates-transport-villas-rennovation"
+  },
+  "wadi-luqaimat-and-chebab-restaurant": {
+    "slug": "wadi-luqaimat-and-chebab-restaurant",
+    "heroTitle": "Wadi Luqaimat and Chebab Restaurant",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/wadi-luqaimat-and-chebab-restaurant/img-01.jpg",
+      "/site/portfolio/wadi-luqaimat-and-chebab-restaurant/img-02.jpg",
+      "/site/portfolio/wadi-luqaimat-and-chebab-restaurant/img-03.jpg",
+      "/site/portfolio/wadi-luqaimat-and-chebab-restaurant/img-04.jpg",
+      "/site/portfolio/wadi-luqaimat-and-chebab-restaurant/img-05.jpg"
+    ],
+    "videoUrl": "https://youtube.com/shorts/FxhVZzAtTkU?si=kElwSnUFvJjJAZ_g",
+    "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Wadi Luqaimat &amp; Chebab Restaurant</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
+    "prevSlug": "mra-hotel-deira",
+    "nextSlug": "green-chilli-restaurant-interior-design"
+  }
+}

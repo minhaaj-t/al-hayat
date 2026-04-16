@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #18181b;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-display), ui-serif, Georgia, "Times New Roman", serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Portfolio detail — HTML copied from Woodmart / Elementor */
+.portfolio-sidebar p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.portfolio-sidebar table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8125rem;
+}
+
+.portfolio-sidebar th,
+.portfolio-sidebar td {
+  padding: 0.55rem 0;
+  vertical-align: top;
+  border-bottom: 1px solid rgb(228 228 231);
+}
+
+.portfolio-sidebar th {
+  font-weight: 600;
+  color: rgb(24 24 27);
+  text-align: left;
+  width: 42%;
+}
+
+.portfolio-sidebar td {
+  text-align: right;
+  color: rgb(63 63 70);
+}
