@@ -1,0 +1,4 @@
+# Local HTML caches (not needed at runtime)
+.cache-about-us.html
+.cache-contact-us.html
+.cache-portfolio
