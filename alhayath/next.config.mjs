@@ -1,12 +1,18 @@
-import type { NextConfig } from "next";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
 
-const nextConfig: NextConfig = {
-  /**
-   * When the repo is an npm workspace, `next build` runs with cwd = `alhayath/`.
-   * Pinning Turbopack root avoids resolving the wrong directory (parent lockfiles / 404 deploys).
-   */
+/** `alhayath/` (this app). */
+const configDir = path.dirname(fileURLToPath(import.meta.url));
+/**
+ * npm workspaces hoist `next` to the repo root `node_modules/`.
+ * Turbopack must use that root or it cannot resolve `next/package.json`.
+ */
+const turbopackRoot = path.resolve(configDir, "..");
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   turbopack: {
-    root: process.cwd(),
+    root: turbopackRoot,
   },
   reactCompiler: true,
   images: {

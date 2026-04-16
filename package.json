@@ -2,6 +2,11 @@
   "name": "al-hayat-repo",
   "private": true,
   "workspaces": ["alhayath"],
+  "dependencies": {
+    "next": "16.2.4",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
   "scripts": {
     "build": "npm run build -w alhayath",
     "dev": "npm run dev -w alhayath",
@@ -9,5 +14,8 @@
   },
   "engines": {
     "node": ">=20"
+  },
+  "devDependencies": {
+    "babel-plugin-react-compiler": "1.0.0"
   }
 }
