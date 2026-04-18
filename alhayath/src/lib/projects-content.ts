@@ -42,6 +42,7 @@ const PORTFOLIO_SLUG_ORDER = [
   "imdadiya-super-market",
   "a-lacus-bibendum-pulvinar",
   "restaurant-happy-way",
+  "prime-high-range-restaurant",
 ] as const;
 
 type Slug = (typeof PORTFOLIO_SLUG_ORDER)[number];
@@ -120,6 +121,9 @@ const OVERRIDES: Partial<Record<Slug, ProjectOverride>> = {
   "restaurant-happy-way": {
     image:
       "https://rpcgeneralcontractor.com/wp-content/uploads/2025/07/complete-restaurant-construction-checklist.jpg",
+  },
+  "prime-high-range-restaurant": {
+    categories: ["fit-out"],
   },
 };
 

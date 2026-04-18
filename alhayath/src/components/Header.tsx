@@ -13,52 +13,75 @@ const nav = [
   { href: "/contact-us", label: "Contact us" },
 ];
 
+function HeaderContactStrip({ placement }: { placement: "top" | "drawer" }) {
+  const inDrawer = placement === "drawer";
+  return (
+    <>
+      <p
+        className={
+          inDrawer
+            ? "text-center text-white"
+            : "text-center text-white sm:text-left"
+        }
+      >
+        <a href="tel:+971505189503" className="hover:text-amber-300">
+          +971 50 518 9503
+        </a>
+        <span className="mx-2 opacity-60">||</span>
+        <a
+          href="mailto:info@alhayatinteriors.com"
+          className="hover:text-amber-300"
+        >
+          info@alhayatinteriors.com
+        </a>
+      </p>
+      <div
+        className={
+          inDrawer
+            ? "flex flex-wrap items-center justify-center gap-x-3 gap-y-2 text-xs uppercase tracking-wide text-white/80"
+            : "flex gap-3 text-xs uppercase tracking-wide text-white/80"
+        }
+      >
+        <span className={inDrawer ? "text-white/50" : "hidden sm:inline"}>
+          Follow
+        </span>
+        <a
+          href="https://www.facebook.com/sharer/sharer.php?u=https://alhayatinteriors.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:text-amber-300"
+        >
+          Facebook
+        </a>
+        <a
+          href="https://www.linkedin.com/shareArticle?mini=true&url=https://alhayatinteriors.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:text-amber-300"
+        >
+          LinkedIn
+        </a>
+        <a
+          href="https://api.whatsapp.com/send?text=https%3A%2F%2Falhayatinteriors.com%2F"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hover:text-amber-300"
+        >
+          WhatsApp
+        </a>
+      </div>
+    </>
+  );
+}
+
 export function Header() {
   const [open, setOpen] = useState(false);
 
   return (
     <header className="absolute inset-x-0 top-0 z-50">
-      <div className="bg-zinc-950 text-sm text-white">
+      <div className="hidden bg-zinc-950 text-sm text-white md:block">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-4 py-2 sm:flex-row sm:px-6 lg:px-8">
-          <p className="text-center sm:text-left">
-            <a href="tel:+971505189503" className="hover:text-amber-300">
-              +971 50 518 9503
-            </a>
-            <span className="mx-2 opacity-60">||</span>
-            <a
-              href="mailto:info@alhayatinteriors.com"
-              className="hover:text-amber-300"
-            >
-              info@alhayatinteriors.com
-            </a>
-          </p>
-          <div className="flex gap-3 text-xs uppercase tracking-wide text-white/80">
-            <span className="hidden sm:inline">Follow</span>
-            <a
-              href="https://www.facebook.com/sharer/sharer.php?u=https://alhayatinteriors.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-amber-300"
-            >
-              Facebook
-            </a>
-            <a
-              href="https://www.linkedin.com/shareArticle?mini=true&url=https://alhayatinteriors.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-amber-300"
-            >
-              LinkedIn
-            </a>
-            <a
-              href="https://api.whatsapp.com/send?text=https%3A%2F%2Falhayatinteriors.com%2F"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-amber-300"
-            >
-              WhatsApp
-            </a>
-          </div>
+          <HeaderContactStrip placement="top" />
         </div>
       </div>
 
@@ -111,6 +134,9 @@ export function Header() {
                 </Link>
               ))}
             </nav>
+            <div className="mt-6 flex flex-col gap-4 border-t border-white/10 pt-6 text-sm">
+              <HeaderContactStrip placement="drawer" />
+            </div>
           </div>
         ) : null}
       </div>

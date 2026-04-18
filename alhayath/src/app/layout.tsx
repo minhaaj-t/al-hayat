@@ -27,7 +27,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${display.variable} ${sans.variable} h-full`}>
+    <html
+      lang="en"
+      className={`${display.variable} ${sans.variable} h-full scroll-smooth`}
+    >
       <body className="min-h-full font-sans antialiased">{children}</body>
     </html>
   );

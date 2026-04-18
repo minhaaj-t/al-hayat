@@ -17,6 +17,54 @@ body {
   color: var(--foreground);
 }
 
+@keyframes ah-fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page-transition {
+  animation: ah-fade-in-up 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.ah-fade-in-up {
+  animation: ah-fade-in-up 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-transition,
+  .ah-fade-in-up {
+    animation: none;
+  }
+}
+
+.scroll-animate-target {
+  opacity: 0;
+  transform: translate3d(0, 20px, 0);
+  transition:
+    opacity 0.65s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.65s cubic-bezier(0.22, 1, 0.36, 1);
+  transition-delay: calc(min(var(--sa-stagger, 0), 14) * 38ms);
+}
+
+.scroll-animate-target.is-visible {
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scroll-animate-target {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
 /* Portfolio detail — HTML copied from Woodmart / Elementor */
 .portfolio-sidebar p {
   margin-bottom: 1rem;

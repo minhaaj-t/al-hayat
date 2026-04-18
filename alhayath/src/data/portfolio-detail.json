@@ -305,5 +305,21 @@
     "sidebarHtml": "<p>Interior and turnkey fit-out solutions for retail, office, and residential spaces.</p><table><tbody><tr><th>Client</th><td style=\"text-align: right;\">Wadi Luqaimat &amp; Chebab Restaurant</td></tr><tr><th>Designer</th><td style=\"text-align: right;\">Mr. Vijil Kalashakkaran</td></tr><tr><th>Main Contractor</th><td style=\"text-align: right;\">Al Hayat<br />Interiors LLC</td></tr><tr><th>Scope of<br />Work</th><td style=\"text-align: right;\">Complete Dining Area Partition &amp; Finishing Work</td></tr></tbody></table>",
     "prevSlug": "mra-hotel-deira",
     "nextSlug": "green-chilli-restaurant-interior-design"
+  },
+  "prime-high-range-restaurant": {
+    "slug": "prime-high-range-restaurant",
+    "heroTitle": "Prime high range restaurant",
+    "subtitle": "Interior Fit-Out",
+    "gallery": [
+      "/site/portfolio/prime-high-range-restaurant/img-01.jpeg",
+      "/site/portfolio/prime-high-range-restaurant/img-02.jpeg",
+      "/site/portfolio/prime-high-range-restaurant/img-03.jpeg",
+      "/site/portfolio/prime-high-range-restaurant/img-04.jpeg",
+      "/site/portfolio/prime-high-range-restaurant/img-05.jpeg"
+    ],
+    "videoUrl": null,
+    "sidebarHtml": "",
+    "prevSlug": "restaurant-happy-way",
+    "nextSlug": null
   }
 }
